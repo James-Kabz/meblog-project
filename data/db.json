@@ -1,10 +1,10 @@
 {
   "blogs": [
     {
-      "id": "83b1",
-      "title": "Legends of the seeker",
-      "author": "Jacob Kiprono",
-      "body": "\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      "id": "dd1e",
+      "title": "What Is A Blog",
+      "author": "Engineer Jobs",
+      "body": "For example, a restauranteur could regularly blog about everything from their favorite farmers' markets, to amusing anecdotes, to the way they develop new recipes. A personal blog allows the reader to connect with the person behind the business, making them more likely to remember and patronize the restaurant."
     }
   ]
 }

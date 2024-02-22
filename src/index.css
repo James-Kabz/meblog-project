@@ -51,11 +51,78 @@
 }
 
 .preview h3 {
-  font-size: 15px;
+  font-size: 35px;
   color: blueviolet;
   margin-bottom: 6px;
+  font-weight: bolder;
 }
 
 .preview a {
   text-decoration: none ! important;
+}
+.preview p{
+  font-size: 20px;
+  color: #333;
+  
+}
+
+.details article {
+  border: 0px solid #ccc;
+  padding: 40px;
+  border-radius: 20px;
+  box-shadow:  5px 0px 6px 3px rgba(0, 0, 0, 0.1);
+  height: 520px;
+  width: 600px;
+}
+.details article h3{
+  font-size: 45px;
+  color: blueviolet;
+  margin-bottom: 6px;
+  font-weight: 900;
+}
+.details article p{
+  font-size: 25px;
+  color:  rgb(23, 23, 179);
+  margin-bottom: 6px;
+  font-weight: 600;
+}
+.details article textarea{
+  font-size: 20px;
+  color:  rgb(23, 23, 179);
+  margin-bottom: 6px;
+}
+.details article form button{
+  position: relative ;
+  float: right;
+  width: 50px;
+  padding: 5px;
+  background-color: blue;
+  color: white;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  border-radius: 15px;
+  margin-right:200px;
+  margin-top: 18px;
+}
+.details article form button:hover{
+  background-color: rgb(23, 23, 179);
+  transform: rotateX('');
+}
+.details div{
+  font-size: 20px;
+}
+.details button{
+  font-size: 25px;
+  position: relative ;
+  width: 50px;
+  padding: 0px;
+  background-color: rgb(252, 58, 58);
+  cursor: pointer;
+  border: none;
+  outline: none;
+  border-radius: 15px;
+}
+.details button i{
+  color: white;
 }
