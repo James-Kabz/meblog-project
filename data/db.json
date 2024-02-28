@@ -1,10 +1,16 @@
 {
   "blogs": [
     {
-      "id": "dd1e",
-      "title": "What Is A Blog",
-      "author": "Engineer Jobs",
-      "body": "For example, a restauranteur could regularly blog about everything from their favorite farmers' markets, to amusing anecdotes, to the way they develop new recipes. A personal blog allows the reader to connect with the person behind the business, making them more likely to remember and patronize the restaurant."
+      "id": "0354",
+      "title": "The River And The Source",
+      "author": "Mary Okero",
+      "body": "The novel traces the lives of three generations of women. Beginning with the story of AKOKO set in her rich traditional Luo surroundings through to the children of Awiti who live and die in the full swell of the 20th century. This is an epic story spanning cultures; filled with laughter and tears. A book that demands to be read at a sitting!"
+    },
+    {
+      "id": "78e9",
+      "title": "Betrayal In The City",
+      "author": "Francis Imbuga",
+      "body": "The story revolves around the aftermath of a failed coup attempt against a corrupt government. The main character, Doga, is a university lecturer who becomes disillusioned with the state of affairs in his country. He is arrested and tortured for his involvement in the coup, along with other political dissidents.\n\nAs the plot unfolds, the play delves into the struggles of ordinary citizens who are caught in the crossfire of political turmoil. It highlights the pervasive corruption and oppression faced by the people, as well as the betrayal they experience at the hands of those in power.\n\n\"Betrayal in the City\" is a powerful critique of authoritarianism and political oppression, drawing attention to the human rights abuses and injustices faced by many in post-colonial African societies. Through its vivid characters and thought-provoking dialogue, the play challenges audiences to confront the harsh realities of life under oppressive regimes and to question the moral integrity of those in authority."
     }
   ]
 }

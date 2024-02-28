@@ -28,7 +28,7 @@ const BlogDetails = () => {
         axios.patch(`http://localhost:4002/blogs/${id}`, { body: newBody })
             .then(res => {
                 alert('Blog Body Updated Successfully');
-history.push('/');
+                history.push('/');
                 setNewBody('');
             })
             .catch(err => {
