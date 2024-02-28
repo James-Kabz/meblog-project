@@ -50,7 +50,7 @@ const BlogDetails = () => {
                             onChange={(e) => setNewBody(e.target.value)}
                             placeholder="Enter new body content..."
                         ></textarea>
-                        <button type="submit"><i class="fa-solid fa-arrows-rotate"></i></button>
+                        <button type="submit"><i class="fa fa-edit" aria-hidden="true"></i></button>
                     </form>
                     <button onClick={handleDelete} variant="danger" className="mt-3" type="submit">
                         <i class="fa fa-trash-o" aria-hidden="true"></i>
